@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BADF20A5-4803-499E-81D4-E8566767A4CC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A916F236-6AB8-489C-B858-B40C66E3FEE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS Quiz-Dev/NovelList/NovelListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A916F236-6AB8-489C-B858-B40C66E3FEE2 - 35c90a0fa3baedc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_Quiz_Dev.NovelListViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "iOS Quiz-Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surachatyaitammasan/Desktop/Development/Swift/iOS%20Quiz-Dev/iOS%20Quiz-Dev/NovelList/NovelListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "4707">
+               </Location>
+               <Location
+                  uuid = "A916F236-6AB8-489C-B858-B40C66E3FEE2 - 35c90a0fa3baedc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_Quiz_Dev.NovelListViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "iOS Quiz-Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surachatyaitammasan/Desktop/Development/Swift/iOS%20Quiz-Dev/iOS%20Quiz-Dev/NovelList/NovelListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "6725">
+               </Location>
+               <Location
+                  uuid = "A916F236-6AB8-489C-B858-B40C66E3FEE2 - 35c90a0fa3baedc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_Quiz_Dev.NovelListViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "iOS Quiz-Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surachatyaitammasan/Desktop/Development/Swift/iOS%20Quiz-Dev/iOS%20Quiz-Dev/NovelList/NovelListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "4717">
+               </Location>
+               <Location
+                  uuid = "A916F236-6AB8-489C-B858-B40C66E3FEE2 - 35c90a0fa3baedc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_Quiz_Dev.NovelListViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "iOS Quiz-Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surachatyaitammasan/Desktop/Development/Swift/iOS%20Quiz-Dev/iOS%20Quiz-Dev/NovelList/NovelListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "6735">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E529FEA-05D6-4A0C-8980-DA3204E3386F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS Quiz-Dev/NovelList/NovelListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "binding()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "931BCCCF-1459-4A75-89ED-C73FA6E91B2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS Quiz-Dev/NovelList/NovelListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "binding()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "931BCCCF-1459-4A75-89ED-C73FA6E91B2D - be81fb91fcb78b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOS_Quiz_Dev.NovelListViewController.binding() -&gt; ()"
+                  moduleName = "iOS Quiz-Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surachatyaitammasan/Desktop/Development/Swift/iOS%20Quiz-Dev/iOS%20Quiz-Dev/NovelList/NovelListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "825">
+               </Location>
+               <Location
+                  uuid = "931BCCCF-1459-4A75-89ED-C73FA6E91B2D - 50c51b9a6868313a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;iOS_Quiz_Dev.BannerList&gt;) -&gt; () in iOS_Quiz_Dev.NovelListViewController.binding() -&gt; ()"
+                  moduleName = "iOS Quiz-Dev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surachatyaitammasan/Desktop/Development/Swift/iOS%20Quiz-Dev/iOS%20Quiz-Dev/NovelList/NovelListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
