@@ -80,6 +80,16 @@ class NovelListTableViewCell: UITableViewCell {
             updatedDateLabel.text = date
         }
         rankingLabel.text = ranking.description
+        switch ranking {
+        case 1:
+            rankingIconImageView.image = UIImage(named: "crown-svgrepo-com")?.withTintColor(.systemYellow)
+        case 2:
+            rankingIconImageView.image = UIImage(named: "crown-svgrepo-com")?.withTintColor(.gray)
+        case 3:
+            rankingIconImageView.image = UIImage(named: "crown-svgrepo-com")?.withTintColor(.brown)
+        default:
+            rankingIconImageView.image = UIImage(named: "crown-svgrepo-com")?.withTintColor(.black)
+        }
         tagList = novelData.tags
         setupCollectionView()
         reloadCollectionView()
